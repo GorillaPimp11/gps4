@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa2e842F93e598c1604347E6eED521fCc0005d9BD",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa2e842F93e598c1604347E6eED521fCc0005d9BD",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "$GorillaPimpSquad$",
+  "SYMBOL": "PIMPS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 8600000000000000,
+  "DISPLAY_COST": 0.0086,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gorillapimpsquad",
+  "SHOW_BACKGROUND": true
+}
